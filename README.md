@@ -1,4 +1,4 @@
-# Sistema de arquivo
+# Sistema de arquivos
 
 Aplicação que manipula arquivos de dados (FILE) para realizar as operações de inserção, atualização, exclusão e consulta de registros.
 
